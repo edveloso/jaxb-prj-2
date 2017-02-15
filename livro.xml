@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<livro xmlns="http://www.caelum.com.br/fj36/">
+    <codigo>ARQ</codigo>
+    <tipo>Arquitetura Java</tipo>
+    <nomeAutor>Paulo Silveira</nomeAutor>
+    <categoria>
+        <nome>ebook</nome>
+    </categoria>
+    <valor>190</valor>
+</livro>
